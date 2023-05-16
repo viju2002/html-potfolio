@@ -1,0 +1,13 @@
+*{
+    background-color:lightgreen;
+}
+.he {
+    font-size: 30px;
+    background: linear-gradient(
+      120deg,
+      #1ca0fee7 20.69%,
+      #be44ffe3 50.19%,
+      #477bfdde 79.69%
+    )
+
+  }
